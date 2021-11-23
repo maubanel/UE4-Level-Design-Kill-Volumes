@@ -85,7 +85,8 @@ Finally, we’ll need to reenable player input. From the SetRelativeLocationAndR
 
 Now Compile everything and return to your scene. Hit Play and let’s see what we get:
 
-## [insert 2021-11-23 10-09-28.mp4]
+https://user-images.githubusercontent.com/20305074/143072944-06748818-00d9-4087-8ddf-5864d3de19f1.mp4
+
 
 <img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
 
